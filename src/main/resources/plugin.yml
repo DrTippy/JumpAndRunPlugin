@@ -1,0 +1,12 @@
+author: Sami
+main: de.sami.main.Main
+version: 1.0
+name: Jump_and_Run
+
+commands:
+  jr:
+    description: Startet das Jump and Run.
+    usage: /jr
+  jrlist:
+    description: Liste alle Spieler in Jump and Runs auf.
+    usage: /jrlist

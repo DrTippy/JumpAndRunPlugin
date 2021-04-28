@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jumpandrun">
+    <output-path>$PROJECT_DIR$/../../Spigot 1.8/plugins</output-path>
+    <root id="archive" name="jumpandrun.jar">
+      <element id="module-output" name="Jump and Run" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>
